@@ -1,7 +1,7 @@
 {
   "name": "@idonans/ckeditor5-audio",
   "version": "23.1.1",
-  "description": "audio features for CKEditor 5 (base on @visao/ckeditor5-audio).",
+  "description": "audio features for CKEditor 5 (base on @idonans/ckeditor5-video).",
   "keywords": [
     "ckeditor",
     "ckeditor5",
