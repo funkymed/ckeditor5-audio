@@ -1,0 +1,89 @@
+# Copyright (c) 2003-2020, CKSource - Frederico Knabben. All rights reserved.
+#
+#                                     !!! IMPORTANT !!!
+#
+#         Before you edit this file, please keep in mind that contributing to the project
+#                translations is possible ONLY via the Transifex online service.
+#
+#         To submit your translations, visit https://www.transifex.com/ckeditor/ckeditor5.
+#
+#                   To learn more, check out the official contributor's guide:
+#     https://ckeditor.com/docs/ckeditor5/latest/framework/guides/contributing/contributing.html
+#
+msgid ""
+msgstr ""
+"Language-Team: French (https://www.transifex.com/ckeditor/teams/11143/fr/)\n"
+"Language: fr\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+msgctxt "The label for the audio widget."
+msgid "audio widget"
+msgstr "Objet audio"
+
+msgctxt "The label for the Side audio option."
+msgid "Side audio"
+msgstr "Audio latérale"
+
+msgctxt "The label for the Full size audio option."
+msgid "Full size audio"
+msgstr "Audio taille réelle"
+
+msgctxt "The label for the Left aligned audio option."
+msgid "Left aligned audio"
+msgstr "Audio alignée à gauche"
+
+msgctxt "The label for the Centered audio option."
+msgid "Centered audio"
+msgstr "Audio centrée"
+
+msgctxt "The label for the Right aligned audio option."
+msgid "Right aligned audio"
+msgstr "Audio alignée à droite"
+
+msgctxt "The title of the notification displayed when upload fails."
+msgid "Upload failed"
+msgstr "Échec de l'envoi"
+
+msgctxt "The label used by assistive technologies describing a audio toolbar attached to a audio widget."
+msgid "Audio toolbar"
+msgstr "Barre d'outils des audios"
+
+msgctxt "The label used for the dropdown in the audio toolbar containing defined resize options."
+msgid "Resize audio"
+msgstr "Redimensionner la audio"
+
+msgctxt "The label used for the standalone resize options buttons in the audio toolbar."
+msgid "Resize audio to %0"
+msgstr "Redimensionner à% 0"
+
+msgctxt "The accessibility label of the standalone audio resize reset option button in the audio toolbar for screen readers."
+msgid "Resize audio to the original size"
+msgstr "Appliquer les dimensions d'origine"
+
+msgctxt "The default label for the resize option that resets the size of the audio."
+msgid "Original"
+msgstr "Taille originale"
+
+msgctxt "The accessibility label of the audio resize dropdown for screen readers."
+msgid "Audio resize list"
+msgstr "Liste des tailles de audio"
+
+msgctxt "The label of the form submit button if the audio source URL input has no value."
+msgid "Insert"
+msgstr "Insérer"
+
+msgctxt "The label of the form submit button if the audio source URL input has a value."
+msgid "Update"
+msgstr "Modifier"
+
+msgctxt "The input label for the Insert audio via URL form."
+msgid "Insert audio via URL"
+msgstr "Insérer une audio à partir d'un URL"
+
+msgctxt "The input label for the Insert audio via URL form for a pre-existing audio."
+msgid "Update audio URL"
+msgstr "Modifier l'URL de la audio"
+
+msgctxt "The content of the tip below the Insert audio via URL form."
+msgid "Paste the audio source URL."
+msgstr "Collez l'URL de la audio insérer"

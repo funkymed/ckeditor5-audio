@@ -1,0 +1,10 @@
+.ck.ck-editor__editable .audio {
+    position: relative;
+}
+
+/* Upload progress bar. */
+.ck.ck-editor__editable .audio .ck-progress-bar {
+    position: absolute;
+    top: 0;
+    left: 0;
+}

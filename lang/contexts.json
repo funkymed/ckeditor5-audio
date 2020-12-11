@@ -1,0 +1,20 @@
+{
+	"audio widget": "The label for the audio widget.",
+	"Side audio": "The label for the Side audio option.",
+	"Full size audio": "The label for the Full size audio option.",
+	"Left aligned audio": "The label for the Left aligned audio option.",
+	"Centered audio": "The label for the Centered audio option.",
+	"Right aligned audio": "The label for the Right aligned audio option.",
+	"Upload failed": "The title of the notification displayed when upload fails.",
+	"Audio toolbar": "The label used by assistive technologies describing an audio toolbar attached to an audio widget.",
+	"Resize audio": "The label used for the dropdown in the audio toolbar containing defined resize options.",
+	"Resize audio to %0": "The label used for the standalone resize options buttons in the audio toolbar.",
+	"Resize audio to the original size": "The accessibility label of the standalone audio resize reset option button in the audio toolbar for screen readers.",
+	"Original": "The default label for the resize option that resets the size of the audio.",
+	"Audio resize list": "The accessibility label of the audio resize dropdown for screen readers.",
+	"Insert": "The label of the form submit button if the audio source URL input has no value.",
+	"Update": "The label of the form submit button if the audio source URL input has a value.",
+	"Insert audio via URL": "The input label for the Insert audio via URL form.",
+	"Update audio URL": "The input label for the Insert audio via URL form for a pre-existing audio.",
+	"Paste the audio source URL.": "The content of the tip below the Insert audio via URL form."
+}
