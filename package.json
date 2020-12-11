@@ -1,5 +1,5 @@
 {
-  "name": "@funkymed/ckeditor5-audio",
+  "name": "funkymed/ckeditor5-audio",
   "version": "23.1.0",
   "description": "audio features for CKEditor 5 (base on @idonans/ckeditor5-video).",
   "keywords": [
