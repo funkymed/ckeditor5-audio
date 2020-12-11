@@ -42,7 +42,7 @@ ClassicEditor
 
 #### audioUpload Plugin
 - Plugin to upload audio files via toolbar upload prompt or drag and drop functionalities
-- Specify allowed media(mime) types. Default => `['mp4', 'mp3','webm', 'ogg']`
+- Specify allowed media(mime) types. Default => `['mpeg', 'ogg']`
 - Allow multiple file upload or not, Default => `true`
 - Add the `audioUpload` toolbar option to access the file repository
 - Must provide an `UploadAdapter`.
@@ -63,7 +63,7 @@ ClassicEditor
         toolbar: ['audioUpload'],
         audio: {
             upload: {
-                types: ['mp4','mp3'],
+                types: ['mpeg'],
                 allowMultipleFiles: false,
             }
         }
